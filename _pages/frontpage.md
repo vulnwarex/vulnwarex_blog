@@ -5,19 +5,45 @@ title: Welcome
 list_title: My blog posts
 ---
 
-This is a template and some instructions for running Github Pages with the [`minima` theme][minima]. This repo has what I consider the minimum pieces for a personal blog using [Jekyll][jk] and [Github Pages][gh-site].
+# our journey
 
-Check out the excellent [`minima` theme][minima] documentation for further details and customization and the [official docs][gh] for more details on how Github Pages work.
+adversarial intelligence project was truly designed as part of my thesis from the university a few years ago, but one day I got bored at the point. I wanted to build something really big, and at the same time be able to help others. So I back to my thesis to get ideas and improve existent, and I started to build a prototype on how to predict cybersecurity attacks, but it was complex to build due to multiples factors, but however, I thought to improve about cyber attacks prediction idea and I decided to go intelligence route. this was more factible to build, improve, and help others  by focusing on Strategic and Tactical intelligence by collecting global information without breaking the law of privacy with a precise focus on adversarial behavior..
 
-Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or reach me from my [contact form](https://www.jorgesanz.net/contact/).
 
-<img src="./assets/imgs/screenshot.png" width="400px">
+# Metodology
 
-For more details about how this example site works checkout [the github project](https://github.com/jsanz/gh-pages-minima-starter). Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or reach me from this [contact form](https://www.jorgesanz.net/contact/).
+platform offers an opportunity for the community to come together and move beyond indicators toward a behavioral-based methodology.
 
-Have a great day!!
+![08](/assets/imgs/8.png)
 
-[gh-site]: https://pages.github.com/
-[minima]: https://github.com/jekyll/minima/tree/2.5-stable
-[jk]: https://jekyllrb.com/
-[gh]: https://help.github.com/en/github/working-with-github-pages`
+# How does it help?
+
+we look at how threat actors are attacking their targets through the techniques mapped in the MITRE ATT&CK Framework, and others. it helps an organization visualize and prioritize content based on tech stack, industry, and vulnerability.
+
+### techblog feeds
+
+![01](/assets/imgs/1.png)
+
+### querying techblog feeds
+
+![02](/assets/imgs/2.png)
+
+### Vulnerability Intelligence 
+
+![03](/assets/imgs/3.png)
+
+### Vulnerability Intelligence Modal
+
+![04](/assets/imgs/4.png)
+
+### Adversarial Intelligence Dashboard
+
+![05](/assets/imgs/5.png)
+
+### Adversarial Intelligence Dropdown
+
+![06](/assets/imgs/6.png)
+
+### Adversarial Intelligence Modal
+
+![07](/assets/imgs/7.png)
