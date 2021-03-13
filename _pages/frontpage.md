@@ -47,3 +47,5 @@ we look at how threat actors are attacking their targets through the techniques 
 ### Adversarial Intelligence Modal
 
 ![07](assets/imgs/7.png)
+
+{% include disqus.html %}
