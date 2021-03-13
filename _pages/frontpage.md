@@ -14,7 +14,7 @@ adversarial intelligence project was truly designed as part of my thesis from th
 
 platform offers an opportunity for the community to come together and move beyond indicators toward a behavioral-based methodology.
 
-![08](/assets/imgs/8.png)
+![08](assets/imgs/8.png)
 
 # How does it help?
 
@@ -22,28 +22,28 @@ we look at how threat actors are attacking their targets through the techniques 
 
 ### techblog feeds
 
-![01](/assets/imgs/1.png)
+![01](assets/imgs/1.png)
 
 ### querying techblog feeds
 
-![02](/assets/imgs/2.png)
+![02](assets/imgs/2.png)
 
 ### Vulnerability Intelligence 
 
-![03](/assets/imgs/3.png)
+![03](assets/imgs/3.png)
 
 ### Vulnerability Intelligence Modal
 
-![04](/assets/imgs/4.png)
+![04](assets/imgs/4.png)
 
 ### Adversarial Intelligence Dashboard
 
-![05](/assets/imgs/5.png)
+![05](assets/imgs/5.png)
 
 ### Adversarial Intelligence Dropdown
 
-![06](/assets/imgs/6.png)
+![06](assets/imgs/6.png)
 
 ### Adversarial Intelligence Modal
 
-![07](/assets/imgs/7.png)
+![07](assets/imgs/7.png)
