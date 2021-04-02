@@ -7,7 +7,7 @@ list_title: My blog posts
 
 # our journey
 
-adversarial intelligence project was truly designed as part of my thesis from the university a few years ago, but one day I got bored at the point. I wanted to build something really big, and at the same time be able to help others. So I back to my thesis to get ideas and improve existent, and I started to build a prototype on how to predict cybersecurity attacks, but it was complex to build due to multiples factors, but however, I thought to improve about cyber attacks prediction idea and I decided to go intelligence route. this was more factible to build, improve, and help others  by focusing on Strategic and Tactical intelligence by collecting global information without breaking the law of privacy with a precise focus on adversarial behavior..
+adversarial intelligence project was truly designed as part of my thesis from the university a few years ago, but one day I got bored at the point. I wanted to build something really big, and at the same time be able to help others. So I back to my thesis to get ideas and improve existent, and I started to build a prototype on how to predict cybersecurity attacks, but it was complex to build due to multiples factors, but however, I thought to improve about cyber attacks prediction idea and I decided to go intelligence route. this was more feasible to build, improve, and help others  by focusing on Strategic and Tactical intelligence by collecting global information without breaking the law of privacy with a precise focus on adversarial behavior..
 
 
 # Metodology
